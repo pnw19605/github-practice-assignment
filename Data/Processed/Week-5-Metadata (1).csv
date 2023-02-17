@@ -1,0 +1,7 @@
+variableName,description,variableType,units
+Date_Collected,The date that the mammal capture occurred,date,NA
+Plot,"Plot that the mammal capture occurred (1, 2, 3, 4, 17, or 20)",string,NA
+Species,"Two letter abbreviation of mammal species captured, left blank if not identified",string,NA
+Sex,"Sex of captured mammal, left blank if sex not distinguishable",binary,NA
+Weight,"Measurement of mammal weight, left blank if not obtained",real,g
+Caveat,"Names caveat with obtained data for a specific capture, left blank if no issues.",string,NA
